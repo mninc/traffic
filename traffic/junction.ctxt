@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=in_a_val\ in_b_val\ in_c_val\ in_d_val\ out_a_val\ out_b_val\ out_c_val\ out_d_val\ spawn_rate_val
+comment0.target=junction(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=void\ init()
+comment2.params=
+comment2.target=void\ addCar()
+comment3.params=
+comment3.target=void\ act()
+numComments=4
